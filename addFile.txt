@@ -1,1 +1,1 @@
-file to add
+Add a new line to addFile.txt
