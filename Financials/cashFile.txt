@@ -1,1 +1,6 @@
 I have no CASH
+<<<<<<< HEAD
+=======
+
+I still have no CASH!!
+>>>>>>> origin/trialBRanch
