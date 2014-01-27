@@ -1,11 +1,15 @@
 workInfo:
 
-name:			kenJones
-address:		lll Little Eagle Court
+Name:			        Ken Jones
+Address:		        lll Little Eagle Court
 				Kathleen, GA. 31047
+Telephone:			(478)224-2124 (Home)
+				(478)235-8841 (Cell)
 				
-workAddress:	IDMI
+WorkAddress:			IDMI
 				201 Byrd Court
 				Suite 100
 				Warner Robins, GA. 31088
+WorkTelephone:			(478)xxx-xxxx
+
 				
