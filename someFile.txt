@@ -1,0 +1,12 @@
+This is a new text file.
+
+I named it someFile.txtx and added it through GitBash.
+
+I did this to test adding a file directly through Bash.
+
+The proper syntax for doing so is:
+
+	echo "" > 'name of file'
+  e.g.	echo "" > someFile.txt
+
+  This concludes all entries for someFile.txt at this time.
