@@ -1,1 +1,6 @@
-**This is where I would store financial information about my company**
+I have no CASH
+<<<<<<< HEAD
+=======
+
+I still have no CASH!!
+>>>>>>> origin/trialBRanch
