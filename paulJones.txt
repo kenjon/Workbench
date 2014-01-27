@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 Paul W Jones
 age 47
 Heart Issues
 **DECEASED**
 
 new addition
-=======
+
 This is my Father
->>>>>>> DEV
+
